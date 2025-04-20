@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Postgres dump or temp files
+*.sql
+*.dump
+*.bak
+
+# Coverage and build
+coverage/
+dist/
+build/
+
+package-lock.json
