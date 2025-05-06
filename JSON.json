@@ -1,0 +1,41 @@
+{
+    "AgentNodeExitReasonsCapture": {
+        "entities": [
+            {
+                "patientName": "Nandu Pastham"
+            },
+            {
+                "doctorType": "dental"
+            },
+            {
+                "preferredDateAndTime": "24th April 2025, 2pm"
+            },
+            {
+                "reasonForVisit": "general checkup"
+            }
+        ] 
+    },
+    "exit_scenario": {
+        "conv_status": "ongoing"
+    },
+    "agentnodeexitreasonscapture": {
+        "entities": [
+            {
+                "patientName": "Nandu Pastham"
+            },
+            {
+                "doctorType": "dental"
+            },
+            {
+                "preferredDateAndTime": "24th April 2025, 2pm"
+            },
+            {
+                "reasonForVisit": "general checkup"
+            }
+        ]
+    },
+    "bot_response": {
+        "bot": "Thank you, Nandu Pastham. Could you please provide your contact number with a valid country code?"
+    }
+}
+
